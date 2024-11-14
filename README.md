@@ -44,9 +44,31 @@ Navegue até o diretório do projeto:
 
 Compile o código-fonte do back-end:
 
-* Copiar código: g++ -o backend src/main.cpp
-* Copiar código: g++ -o backend src/main.cpp
+* Copiar código: g++ -o backend src/CalculadoraProcedural.cpp
+* Copiar código: g++ -o backend src/ErrodeSegmentacao.cpp
 
+2. Front-end (Página Web)
+Acesse o link do site disponibilizado a partir do GitHub Pages aqui: https://VncsAS02.github.io/Paradigma-Procedural/
 
+# 📚 Bibliotecas e Tecnologias Utilizadas
 
+* HTML/CSS: Estrutura principal para desenvolvimento do front-end e e estilos da interface.
+* C++: Linguagem principal para manipulação e lógica.
+* JavaScript: Manipulação adicional de eventos e lógica.
 
+# 🧑‍💻 Participantes
+* Gustavo Borges Freitas-29748437
+
+* Caio Henrique Medeiros-30062314
+
+* Leonardo Albuquerque-31216455
+
+* Paulo Matheus de Lima Rodrigues-31581391
+
+* Yago Sampaio-38126249
+
+* Vinicius de Almeida de Souza-29346487
+  
+# 🧙‍♂️ Autor
+
+Vinicius de Almeida de Souza
