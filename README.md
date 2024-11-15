@@ -61,8 +61,6 @@ Acesse o link do site disponibilizado a partir do GitHub Pages aqui: https://Vnc
 
 * Caio Henrique Medeiros-30062314
 
-* Leonardo Albuquerque-31216455
-
 * Paulo Matheus de Lima Rodrigues-31581391
 
 * Yago Sampaio-38126249
