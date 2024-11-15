@@ -23,9 +23,8 @@ O projeto visa ilustrar como o paradigma de programação procedural pode ser ap
 
 O repositório está organizado da seguinte maneira:
 
-* src/: Contém o código-fonte do back-end em C++.
-* web/: Contém os arquivos relacionados à página web (HTML, CSS, JavaScript) que explicam o paradigma procedural.
-* docs/: Documentação explicativa sobre a implementação, o paradigma procedural e como o projeto foi desenvolvido.
+* Os arquivos CalculadoraProcedural.cpp, ErrodeSegmentacao.cpp e estressar.cpp: Contém o código-fonte do back-end em C++.
+* Os arquivos index, about, price e service: Contém os arquivos relacionados à página web (HTML, CSS, JavaScript) que explicam o paradigma procedural.
 * README.md: Este arquivo.
 
 # 🛠 Como Rodar o Projeto
@@ -44,8 +43,9 @@ Navegue até o diretório do projeto:
 
 Compile o código-fonte do back-end:
 
-* Copiar código: g++ -o backend src/CalculadoraProcedural.cpp
-* Copiar código: g++ -o backend src/ErrodeSegmentacao.cpp
+* Copiar código presente em :CalculadoraProcedural.cpp
+* Copiar código presente em :ErrodeSegmentacao.cpp
+* Copiar código presente em :estressar.cpp
 
 2. Front-end (Página Web)
 Acesse o link do site disponibilizado a partir do GitHub Pages aqui: https://VncsAS02.github.io/Paradigma-Procedural/
